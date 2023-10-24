@@ -1,0 +1,3 @@
+nginx: latest
+
+./user/share/nginx/html
